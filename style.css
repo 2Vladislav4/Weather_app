@@ -1,0 +1,41 @@
+body {
+    background-color: #12414c;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(255, 181, 44);
+}
+
+a {
+    color: rgb(255, 186, 58);
+}
+
+ul {
+    text-decoration: underline;
+    text-align: left;
+}
+
+span {
+    text-decoration: underline;
+    text-decoration-color: #12414c;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.cloud_image {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.icon_and_link {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+
